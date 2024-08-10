@@ -24,12 +24,12 @@ The_machine_public_ip_or_Dns_name:8000
 ```
 #### Run the following command in order to make an image from the  container
 ```
-docker commit simple_website  your_docker_hub_account/simple_website:latest
+docker commit simple_website  The_dockerhub_username_account/simple_website:latest
 ```
 #### How to upload the image on the docker hub
 ``` 
 docker login
 ```
 ```
-docker push your_docker_hub_account/simple_website:latest
+docker push The_dockerhub_username_account/simple_website:latest
 ```
