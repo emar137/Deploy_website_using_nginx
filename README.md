@@ -6,7 +6,7 @@
 #### Build Docker image 
 ```docker build -t simple_website . ```
 ### Run docker container from that  image 
-docker run -it -d -p 8000:80 --name sales_website   simple_website 
+```docker run -it -d -p 8000:80 --name sales_website   simple_website ```
 #### Open your browser and Type  
 ``` The_machine_public_ip_or_Dns_name:8000```
 #### Run the following command in order to make an image from the  container
