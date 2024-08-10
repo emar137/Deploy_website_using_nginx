@@ -1,7 +1,7 @@
 
 # Deploy_website_using_nginx
 #### Tools
-* Aws ec2 instance,Git,Github,Docker file,Docker hub 
+ Aws ec2 instance,Git,Github,Docker file,Docker hub 
 #### Clone the repository
 ```
 git clone https://github.com/emar137/Deploy_website_using_nginx.git
