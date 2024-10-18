@@ -1,7 +1,5 @@
 
 # Deploy_website_using_nginx
-#### Tools
- Aws ec2 instance,Git,Github,Docker file,Docker hub 
 #### Project Design 
 ![image](https://github.com/user-attachments/assets/0584418c-7ebe-4deb-9db3-00952cb3c725)
 #### Clone the repository
