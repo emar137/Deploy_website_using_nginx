@@ -3,7 +3,7 @@
 #### Tools
  Aws ec2 instance,Git,Github,Docker file,Docker hub 
 #### Project Design 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0584418c-7ebe-4deb-9db3-00952cb3c725)
 #### Clone the repository
 ```
 git clone https://github.com/emar137/Deploy_website_using_nginx.git
